@@ -82,7 +82,7 @@ Each sport includes 3 real venues located across Lebanon:
 
 ## Home Page
 
-
+![Home Page](./src/Images/Home%20Page.png)
 
 ## Sports Directory
 
