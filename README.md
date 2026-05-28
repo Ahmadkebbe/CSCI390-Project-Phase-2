@@ -94,11 +94,11 @@ Each sport includes 3 real venues located across Lebanon:
 
 ## Quiz — Results
 
-![Quiz Results](./src/Images/QuizResult.png)
+![Quiz Results](./src/Images/Quiz%20Result.png)
 
 ## Venue Page — Football
 
-![Football Page](./src/Images/FooballPage.png)
+![Football Page](./src/Images/Fooball%20Page.png)
 
 ## Contact Page
 
